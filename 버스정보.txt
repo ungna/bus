@@ -1,0 +1,59 @@
+# 인증키 유효기간 ~2025 9월
+일반 인증키(Encoding) 
+MsMlVXwTa6iJaepslzIENgYMrdmGndKRzvqoMgWnBH2K2kUV0xJB%2FM%2BdHc1zFvKBSXkP2RoS9DQQqYUNrbjAQg%3D%3D
+
+일반 인증키(Decoding)	
+MsMlVXwTa6iJaepslzIENgYMrdmGndKRzvqoMgWnBH2K2kUV0xJB/M+dHc1zFvKBSXkP2RoS9DQQqYUNrbjAQg==
+
+
+### 정보
+https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15000303
+
+오픈API서울특별시_버스도착정보조회 서비스
+
+경기도 버스도착정보조회
+https://www.gbis.go.kr/gbis2014/publicService.action?cmd=openApiInfo
+
+기상청_단기예보 ((구)_동네예보) 조회서비스
+
+
+### 공식 도움되는거 
+경기버스정보  -> 메뉴얼 -> 버스도착정보 조회 서비스
+https://www.gbis.go.kr/gbis2014/publicService.action?cmd=mBusArrivalStation
+
+경기도 버스도착정보조회 오픈api상세
+https://www.data.go.kr/data/15080346/openapi.do#tab_layer_detail_function
+
+버스정류소 정류소id
+https://data.gg.go.kr/portal/data/service/selectServicePage.do?page=1&rows=10&sortColumn=&sortDirection=&infId=GDKWAGWYRKJYIRVX110226832213&infSeq=1&order=&loc=#none
+
+오픈api를 활용한 공공데이터 불러오기
+1. https://zzinnam.tistory.com/entry/%EC%98%A4%ED%94%88-API%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%88%EB%9F%AC%EC%98%A4%EA%B8%B0%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%8F%AC%EB%A7%B7-xml
+2. https://wonhwa.tistory.com/16
+
+
+#####
+집 정류장번호: 37548 (참누리아파트 기산중학교)       233000074
+
+학원 정류장번호: 01224 (수원정통문화관.장안동.방면)  200000093
+
+
+
+
+
+
+
+
+
+
+
+### 남의꺼 훔쳐보기
+https://kalza.tistory.com/40
+
+네이버뉴스 크롤링
+https://wonhwa.tistory.com/52#comment19338417
+
+xml에서 태그 뽑아오기
+https://greendreamtrre.tistory.com/268
+
+
